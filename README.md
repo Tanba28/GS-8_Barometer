@@ -1,2 +1,2 @@
-# GS-8_Barometer
-GS-8 Pressure and Temperature Logging Board
+# GS-8_PD_Board
+GS-8 Barometer Board
