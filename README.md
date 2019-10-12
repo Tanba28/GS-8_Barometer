@@ -5,8 +5,8 @@ Master project -> [project-arrows/GS-8](https://github.com/project-arrows/GS-8)
 
 ## Overview
  * GS-8気圧ロガー
-![top](Picture/top.png)
-![bottom](Picture/bottom.png)
+![top](Hard/Picture/top.png)
+![bottom](Hard/Picture/bottom.png)
 
 ## Role
  * 気圧をロギングする。
