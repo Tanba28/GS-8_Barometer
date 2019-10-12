@@ -2123,6 +2123,11 @@
       (net 1 GND))
     (pad 69 thru_hole circle (at 2.1375 2.1375 90) (size 0.7125 0.7125) (drill 0.35625) (layers *.Cu *.Mask)
       (net 1 GND))
+    (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/QFN-68-1EP_8x8mm_P0.4mm_EP5.2x5.2mm.step
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.65mm_EP1.55x2.4mm (layer F.Cu) (tedit 5DA04DB2) (tstamp 5D96158F)
